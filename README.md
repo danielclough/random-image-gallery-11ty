@@ -231,8 +231,7 @@ deploy:
     branch: master
 EOF
 ```
-Read more about [github action syntax]](https://docs.github.com/en/actions/reference/workflow-syntax-for-github-actions)
-[Our action](https://github.com/peaceiris/actions-gh-pages)
+
 
 ```
 git add -A && git commit -m "everything all at once"
