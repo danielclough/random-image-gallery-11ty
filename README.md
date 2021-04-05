@@ -228,7 +228,7 @@ deploy:
   github-token: $GITHUB_TOKEN  # Set in travis-ci.org dashboard, marked secure
   keep-history: true
   on:
-    branch: main
+    branch: master
 EOF
 ```
 Read more about [github action syntax]](https://docs.github.com/en/actions/reference/workflow-syntax-for-github-actions)
