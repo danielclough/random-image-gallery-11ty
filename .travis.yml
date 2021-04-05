@@ -5,7 +5,7 @@ before_script:
   - npm install @11ty/eleventy clean-css -g 
 script: eleventy --pathprefix="/random-image-gallery-11ty/"
 deploy:
-  local-dir: _site
+  local-dir: docs
   provider: pages
   skip-cleanup: true
   github-token:   # Set in travis-ci.org dashboard, marked secure
