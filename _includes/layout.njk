@@ -1,0 +1,11 @@
+<!doctype html>
+<html lang="en">
+<head>
+{% include "partials/_head.njk" %}
+</head>
+    <body>
+        <h1>{{ title }}</h1>
+        <p> {{ description }} </p>
+        {{ content | safe }}
+    </body>
+</html>

@@ -1,0 +1,15 @@
+---
+layout: layout.njk
+title: Image Gallery
+---
+<main id='main' class="container">
+{% for post in collections.posts %}
+<article class="article">
+    <img src="{{ post.data.image }}" alt="{{ post.data.imageAlt }}" />
+    <h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
+    <p>{{ post.data.description }}</p>
+    <em>{{ post.date | date: "%Y-%m-%d" }}</em>
+</article>
+{% endfor %}
+</main>
+

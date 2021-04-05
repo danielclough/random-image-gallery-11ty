@@ -4,9 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npx eleventy --serve",
+    "build": "env NODE_ENV=production npx eleventy --pathprefix 'random-image-gallery-11ty'",
+    "debug": "DEBUG=* npx eleventy",
+    "dry": "npx @11ty/eleventy --dryrun"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1",
+    "clean-css": "^5.1.2"
+  }
 }

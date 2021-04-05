@@ -1,0 +1,10 @@
+---
+title: Gallery Post 10
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid igitur, inquit, eos responsuros putas? Est enim effectrix multarum et magnarum voluptatum. At ille pellit, qui permulcet sensum voluptate. 
+image: src/img/dummy10.jpg
+---
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliena dixit in physicis nec ea ipsa, quae tibi probarentur; Quid enim ab antiquis ex eo genere, quod ad disserendum valet, praetermissum est? Atque ego: Scis me, inquam, istud idem sentire, Piso, sed a te opportune facta mentio est. Atque hoc dabitis, ut opinor, si modo sit aliquid esse beatum, id oportere totum poni in potestate sapientis. Cuius etiam illi hortuli propinqui non memoriam solum mihi afferunt, sed ipsum videntur in conspectu meo ponere. Restatis igitur vos; 
+
+Quae cum ita sint, effectum est nihil esse malum, quod turpe non sit. Ita ceterorum sententiis semotis relinquitur non mihi cum Torquato, sed virtuti cum voluptate certatio. Illa enim, quae prosunt aut quae nocent, aut bona sunt aut mala, quae sint paria necesse est. Sunt enim quasi prima elementa naturae, quibus ubertas orationis adhiberi vix potest, nec equidem eam cogito consectari. Quis, quaeso, illum negat et bonum virum et comem et humanum fuisse? Reicietur etiam Carneades, nec ulla de summo bono ratio aut voluptatis non dolendive particeps aut honestatis expers probabitur. Non ego tecum iam ita iocabor, ut isdem his de rebus, cum L. Si enim Zenoni licuit, cum rem aliquam invenisset inusitatam, inauditum quoque ei rei nomen inponere, cur non liceat Catoni? 
+
+Quae enim cupiditates a natura proficiscuntur, facile explentur sine ulla iniuria, quae autem inanes sunt, iis parendum non est. Duo Reges: constructio interrete. Num igitur dubium est, quin, si in re ipsa nihil peccatur a superioribus, verbis illi commodius utantur? Piso, familiaris noster, et alia multa et hoc loco Stoicos irridebat: Quid enim? Ita fit beatae vitae domina fortuna, quam Epicurus ait exiguam intervenire sapienti. Sic vester sapiens magno aliquo emolumento commotus cicuta, si opus erit, dimicabit. Quid me istud rogas? 
